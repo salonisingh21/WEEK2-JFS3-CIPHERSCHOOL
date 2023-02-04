@@ -1,0 +1,5 @@
+package com.mycompany.mavenproject1;
+public class Program{
+public static void main(String[] args){
+Newjpanel app = new Newjpanel();
+app.setvisible(true);
